@@ -1,8 +1,6 @@
-![Zelestra x AWS ML Ascend Challenge](assets/ffad4794-e212-4717-8db0-4a53a7d24565.jpg)
-
-<img src="Assets/TeamLogo.jpg" alt="Dragon Tech Logo" width="200"/>
-
 # Solar PV Efficiency Prediction
+
+<img src="Assets/TeamLogo.jpg" alt="Dragon Tech Logo" width="220"/>
 
 Machine learning models for solar PV efficiency and loss attribution — part of the **Zelestra x AWS ML Ascend Challenge (2nd Edition)**.
 
@@ -27,7 +25,7 @@ This project was developed using operational solar power plant data provided **e
 ---
 
 ##  Project Goals
-
+![Zelestra x AWS ML Ascend Challenge](Assets/66de7136452811f0.jpg)
 - Predict solar PV efficiency and power output accurately.
 - Attribute losses to factors like temperature derating, irradiance variability, and tracking accuracy.
 - Develop an ensemble model optimized for time-series solar plant data.
