@@ -13,7 +13,7 @@ This repository is protected by strict branch rules to ensure high code quality 
 
 ## ✅ Pull Request Rules
 
-- **Required approvals:** 1 approval needed before merging
+- **Required approvals:** 2 approval(s) needed before merging
 - **Who can approve:** Only repository admins (myself / my secondary account)
 - **Auto-dismiss stale approvals:** Enabled (new commits require fresh approval)
 - **Require most recent reviewable push approval:** Enabled
